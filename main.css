@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(bg.jpg) no-repeat;
+    background-size: cover;
+}
+.box{
+    width: 450px;
+    background: rgba(0, 255, 98, 0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    max-resolution: top 5%;
+    color: blue;
+    font-family: 'Century Gothic', 'sans serif';
+    <img src="goat.jpeg" alt=""class="box-img">
+}
